@@ -1,0 +1,6 @@
+C:\Users\chastings\Documents\Visual Studio 2013\Projects\RandomThanksmasPicker\RandomThanksmasPicker\bin\Debug\RandomThanksmasPicker.exe.config
+C:\Users\chastings\Documents\Visual Studio 2013\Projects\RandomThanksmasPicker\RandomThanksmasPicker\bin\Debug\RandomThanksmasPicker.exe
+C:\Users\chastings\Documents\Visual Studio 2013\Projects\RandomThanksmasPicker\RandomThanksmasPicker\bin\Debug\RandomThanksmasPicker.pdb
+C:\Users\chastings\Documents\Visual Studio 2013\Projects\RandomThanksmasPicker\RandomThanksmasPicker\obj\Debug\RandomThanksmasPicker.csprojResolveAssemblyReference.cache
+C:\Users\chastings\Documents\Visual Studio 2013\Projects\RandomThanksmasPicker\RandomThanksmasPicker\obj\Debug\RandomThanksmasPicker.exe
+C:\Users\chastings\Documents\Visual Studio 2013\Projects\RandomThanksmasPicker\RandomThanksmasPicker\obj\Debug\RandomThanksmasPicker.pdb
